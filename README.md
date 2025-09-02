@@ -57,4 +57,8 @@
 
 ---
 
-![Snake animation](https://github.com/omarashrafali498/omarashrafali498/blob/workflows/snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
