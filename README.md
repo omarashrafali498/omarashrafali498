@@ -55,3 +55,6 @@
   <img src="https://komarev.com/ghpvc/?username=omarashrafali498&label=Profile%20views&color=0e75b6&style=flat" alt="omarashrafali498" /> 
 </p>
 
+---
+
+![Snake animation](https://github.com/omarashrafali498/omarashrafali498/blob/workflows/snake.svg)
