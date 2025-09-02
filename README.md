@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42"/>
@@ -44,11 +45,13 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarashrafali498&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=omarashrafali498&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarashrafali498&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarashrafali498&theme=tokyonight" alt="GitHub Trophies"/>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=omarashrafali498&label=Profile%20views&color=0e75b6&style=flat" alt="omarashrafali498" /> 
 </p>
+
