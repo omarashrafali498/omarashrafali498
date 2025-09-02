@@ -57,8 +57,9 @@
 
 ---
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarashrafali498/omarashrafali498/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omarashrafali498/omarashrafali498/output/snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/omarashrafali498/omarashrafali498/output/snake.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
