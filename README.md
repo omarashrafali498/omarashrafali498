@@ -49,8 +49,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarashrafali498&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarashrafali498&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages"/>
 </p>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=omarashrafali498&label=Profile%20views&color=0e75b6&style=flat" alt="omarashrafali498" /> 
 </p>
