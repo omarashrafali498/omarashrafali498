@@ -34,14 +34,11 @@ contact: omark96.hn@gmail.com
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=omarashrafali498&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=0A66C2&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=omarashrafali498&hide_border=true&background=0D1117&stroke=0D1117&ring=6C63FF&fire=0A66C2&currStreakLabel=6C63FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarashrafali498&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
-
 <img src="https://komarev.com/ghpvc/?username=omarashrafali498&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=omarashrafali498&hide_border=true&background=0D1117&stroke=0D1117&ring=6C63FF&fire=0A66C2&currStreakLabel=6C63FF&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="165"/>
 
 </div>
 
