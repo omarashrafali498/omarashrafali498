@@ -7,8 +7,11 @@
 </div>
 
 <br/>
-
+<div align="center">
+  
 ### 🧑‍💻 About Me
+
+</div>
 
 ```yaml
 name: Omar Ashraf
